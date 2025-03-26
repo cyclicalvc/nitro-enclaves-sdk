@@ -7,10 +7,10 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/hf/nsm"
-	"github.com/hf/nsm/request"
+	"github.com/cyclicalvc/nitro-enclaves-sdk/nsm"
+	"github.com/cyclicalvc/nitro-enclaves-sdk/nsm/request"
 
-	"github.com/edgebitio/nitro-enclaves-sdk-go/crypto/cms"
+	"github.com/cyclicalvc/nitro-enclaves-sdk/crypto/cms"
 )
 
 const (

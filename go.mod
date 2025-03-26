@@ -1,4 +1,4 @@
-module github.com/edgebitio/nitro-enclaves-sdk-go
+module github.com/cyclicalvc/nitro-enclaves-sdk
 
 go 1.19
 
